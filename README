@@ -1,3 +1,9 @@
+Mirror of google code repo with NDK makefiles for use in Android
+
+all code is 
+Copyright (c) 2011 The LevelDB Authors. All rights reserved.
+
+
 leveldb: A key-value store
 Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
 
